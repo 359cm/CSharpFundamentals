@@ -1,0 +1,14 @@
+C:\Users\Intern\Documents\Dais Bootcamp\C#\CSharpFundamentals\CSharpFundamentals4\CSharpFundamentals4.1\CSharpFundamentals4.1\obj\Debug\net8.0\CSharpFundamentals4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intern\Documents\Dais Bootcamp\C#\CSharpFundamentals\CSharpFundamentals4\CSharpFundamentals4.1\CSharpFundamentals4.1\obj\Debug\net8.0\CSharpFundamentals4.1.AssemblyInfoInputs.cache
+C:\Users\Intern\Documents\Dais Bootcamp\C#\CSharpFundamentals\CSharpFundamentals4\CSharpFundamentals4.1\CSharpFundamentals4.1\obj\Debug\net8.0\CSharpFundamentals4.1.AssemblyInfo.cs
+C:\Users\Intern\Documents\Dais Bootcamp\C#\CSharpFundamentals\CSharpFundamentals4\CSharpFundamentals4.1\CSharpFundamentals4.1\obj\Debug\net8.0\CSharpFundamentals4.1.csproj.CoreCompileInputs.cache
+C:\Users\Intern\Documents\Dais Bootcamp\C#\CSharpFundamentals\CSharpFundamentals4\CSharpFundamentals4.1\CSharpFundamentals4.1\bin\Debug\net8.0\CSharpFundamentals4.1.exe
+C:\Users\Intern\Documents\Dais Bootcamp\C#\CSharpFundamentals\CSharpFundamentals4\CSharpFundamentals4.1\CSharpFundamentals4.1\bin\Debug\net8.0\CSharpFundamentals4.1.deps.json
+C:\Users\Intern\Documents\Dais Bootcamp\C#\CSharpFundamentals\CSharpFundamentals4\CSharpFundamentals4.1\CSharpFundamentals4.1\bin\Debug\net8.0\CSharpFundamentals4.1.runtimeconfig.json
+C:\Users\Intern\Documents\Dais Bootcamp\C#\CSharpFundamentals\CSharpFundamentals4\CSharpFundamentals4.1\CSharpFundamentals4.1\bin\Debug\net8.0\CSharpFundamentals4.1.dll
+C:\Users\Intern\Documents\Dais Bootcamp\C#\CSharpFundamentals\CSharpFundamentals4\CSharpFundamentals4.1\CSharpFundamentals4.1\bin\Debug\net8.0\CSharpFundamentals4.1.pdb
+C:\Users\Intern\Documents\Dais Bootcamp\C#\CSharpFundamentals\CSharpFundamentals4\CSharpFundamentals4.1\CSharpFundamentals4.1\obj\Debug\net8.0\CSharpFundamentals4.1.dll
+C:\Users\Intern\Documents\Dais Bootcamp\C#\CSharpFundamentals\CSharpFundamentals4\CSharpFundamentals4.1\CSharpFundamentals4.1\obj\Debug\net8.0\refint\CSharpFundamentals4.1.dll
+C:\Users\Intern\Documents\Dais Bootcamp\C#\CSharpFundamentals\CSharpFundamentals4\CSharpFundamentals4.1\CSharpFundamentals4.1\obj\Debug\net8.0\CSharpFundamentals4.1.pdb
+C:\Users\Intern\Documents\Dais Bootcamp\C#\CSharpFundamentals\CSharpFundamentals4\CSharpFundamentals4.1\CSharpFundamentals4.1\obj\Debug\net8.0\CSharpFundamentals4.1.genruntimeconfig.cache
+C:\Users\Intern\Documents\Dais Bootcamp\C#\CSharpFundamentals\CSharpFundamentals4\CSharpFundamentals4.1\CSharpFundamentals4.1\obj\Debug\net8.0\ref\CSharpFundamentals4.1.dll
